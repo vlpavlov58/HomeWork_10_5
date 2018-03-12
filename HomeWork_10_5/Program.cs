@@ -10,7 +10,7 @@ namespace HomeWork_10_5
     {
         static int GetMin(int x, int y)
         {
-            
+            //
             if (x>y)
             {
                 Console.WriteLine("Min: "+y); 
